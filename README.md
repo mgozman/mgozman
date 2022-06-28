@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**mgozman/mgozman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="300px" align="right" src="https://avatars.githubusercontent.com/u/49820845?s=400&u=42c533d3205bddc7fe423049696361da7cd44fb0&v=4"/>
+<h1 align="center"> ✋ My name is Mariia
+<h5 align="center"> (Yes, yes, I have double "i" in the name 🙈 ) <h5>
+<h3 align="center"> I'm Backend Software Engineer <h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center"> 
+  
+  I love ♥ NodeJS, GrapthQL
+  
+  I'm big fan of Goͦoͦgleͤ Cloud Platform
+  
+  Docker is my best friend <h4>
+  
+<h1 align="center"> 
+<h5 align="left">   Let's grab a cup of ☕ and meet each other! <h5>
+  
+  Need more details? mariya.gozman@gmail.com <h4>
