@@ -1,5 +1,5 @@
 
-<img width="300px" align="right" src="https://avatars.githubusercontent.com/u/49820845?s=400&u=42c533d3205bddc7fe423049696361da7cd44fb0&v=4"/>
+<img width="300px" align="right" src="![image](https://user-images.githubusercontent.com/49820845/176496241-b21562eb-9e9e-4793-b399-6c420d072803.png)"/>
 <h1 align="center"> ✋ My name is Mariia
 <h5 align="center"> (Yes, yes, I have double "i" in the name 🙈 ) <h5>
 <h3 align="center"> I'm Backend Software Engineer <h3>
