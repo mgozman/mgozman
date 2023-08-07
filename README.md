@@ -7,7 +7,7 @@
 
 <h4 align="center"> 
   
-  I love ♥ NodeJS, GrapthQL
+  I love ♥ NodeJS, GrapthQL and React
   
   I'm big fan of Goͦoͦgleͤ Cloud Platform
   
